@@ -1,0 +1,11 @@
+{
+  "name": "Omniplex-Extension",
+  "version": "1.0.0",
+  "description": "Omniplex-Extension for Omniplex",
+  "manifest_version": 3,
+  "author": "David Arebuwa",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Omniplex"
+  }
+}
